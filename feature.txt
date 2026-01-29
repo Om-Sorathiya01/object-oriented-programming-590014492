@@ -1,0 +1,5 @@
+feature of oop programming 
+encapsulation 
+inheritance
+abstraction
+polymosprism 
