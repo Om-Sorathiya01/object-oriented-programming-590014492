@@ -5,7 +5,7 @@ class arraysum {
     int[] arr = new int[5];
 }
 
-public class classarraysum {
+public class classarraysum4 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         arraysum obj = new arraysum();

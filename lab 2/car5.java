@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class car {
+public class car5 {
     int modelYear;
     int mileage;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        car c1 = new car();
-        car c2 = new car();
+        car5 c1 = new car5();
+        car5 c2 = new car5();
         
         System.out.print("Enter Car 1 Model Year: ");
         c1.modelYear = scanner.nextInt();
