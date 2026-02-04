@@ -5,7 +5,6 @@ class laptop {
     }
 }
 
-// Main class
 public class con9 {
     public static void main(String[] args) {
 
